@@ -30,3 +30,7 @@ Aspiring Data Analyst | Python & Pandas Learner
 
 Connect with me on LinkedIn: - - -      www.linkedin.com/in/praveenkumar65
 - GitHub: https://github.com/Praveenkumar-in
+
+
+© 2026 Praveen Kumar. All rights reserved.
+Licensed under the MIT License.
