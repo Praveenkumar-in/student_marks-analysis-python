@@ -28,5 +28,5 @@ Aspiring Data Analyst | Python & Pandas Learner
 - 🐍 Working with Python, Pandas, and EDA projects
 - 🚀 Building hands-on projects and sharing on GitHub
 
-Connect with me on LinkedIn: www.linkedin.com/in/praveenkumar65
-GitHub: https://github.com/Praveenkumar-in
+Connect with me on LinkedIn: - - -      www.linkedin.com/in/praveenkumar65
+- GitHub: https://github.com/Praveenkumar-in
