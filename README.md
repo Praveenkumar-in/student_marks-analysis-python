@@ -19,6 +19,9 @@ This repository contains a Jupyter Notebook focused on **Python data analysis fu
 
 ## 📂 Project Structure
 
+## License
+This project is licensed under the MIT License © 2026 Praveen Kumar
+
 ## 👨‍💻 Author
 
 Praveen Kumar
